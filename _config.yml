@@ -1,8 +1,8 @@
 # Site settings
-title: "CS230: Data Structures in Java"
-description: "Introduction to Object-Oriented Programming and Data Structures in Java."
+title: "CS220: Human-Computer Interaction"
+description: "Introduction to Human-Computer Interaction."
 
-course_name: "CS230: Data Structures in Java"
+course_name: "CS220: Human-Computer Interaction"
 course_semester: "Fall 2024"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
